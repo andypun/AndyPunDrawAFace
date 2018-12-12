@@ -30,8 +30,6 @@ public class Runner {
         face1.edit("_",4,3);
         face1.edit("_",4,4);
         face1.edit("|",4,5);
-
-
         System.out.println(face1);
     }
 }
